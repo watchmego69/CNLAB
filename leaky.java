@@ -37,7 +37,7 @@ class Queue {
 		
 	}
 }
-public class CongestionControl  extends Thread{
+public class leaky extends Thread{
 	
 	public static void main(String[] args)  throws Exception{
 		// TODO Auto-generated method stub
